@@ -1,0 +1,3 @@
+{{ object.name_office }}
+{{ object.office_message }}
+{{ object.office_id }}

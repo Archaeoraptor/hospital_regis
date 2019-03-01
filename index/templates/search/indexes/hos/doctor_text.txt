@@ -1,0 +1,4 @@
+{{ object.name_do }}
+{{ object.status }}
+{{ object.email }}
+
