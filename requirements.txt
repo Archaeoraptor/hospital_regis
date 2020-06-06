@@ -25,7 +25,7 @@ cycler==0.10.0
 decorator==4.3.0
 defusedxml==0.5.0
 diff-match-patch==20181111
-Django==2.0.9
+Django==2.2.13
 django-crispy-forms==1.7.2
 django-debug-toolbar==1.11
 django-extensions==2.1.4
